@@ -1,2 +1,2 @@
 # Boop-LDAP
-Boop! Labs LDAP
+Landing for LDAP
